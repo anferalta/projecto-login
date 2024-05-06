@@ -49,8 +49,7 @@ Desktop: 992px até 1200px
     }
 
     div#formulario > h1 {
-        text-align: center;
-        margin-bottom: 10px;
+        font-size: 2em;
     }
 
     div#formulario > p {
